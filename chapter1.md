@@ -169,3 +169,16 @@ for what is expected.
 # Update this to something more informative.
 Ex().success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## Statistics with Spreadsheets
+
+```yaml
+type: VideoExercise
+key: dac05a034d
+xp: 50
+```
+
+`@projector_key`
+07638757a1c9f5b135cdc134885d9201
